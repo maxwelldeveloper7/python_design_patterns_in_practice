@@ -13,35 +13,35 @@ Focam na criação de objetos de forma flexível e reutilizável:
 
 - [**Abstract Factory**](./criacionais/abstract_factory/) - Plataformas móveis
 - [**Builder**](./criacionais/builder/) - Construção de imóveis
-- [**Factory Method** - Sistema de logs e notificações
-- [**Prototype** - Clonagem de documentos
-- [**Singleton** - Sistema de configuração
+- [**Factory Method**](./criacionais/factory_method//) - Sistema de logs e notificações
+- [**Prototype**](./criacionais/prototype/) - Clonagem de documentos
+- [**Singleton**](./criacionais/sigleton/) - Sistema de configuração
 
 ### 🔧 Padrões Estruturais
 Lidam com a composição de classes e objetos:
 
-- **Adapter** - Processamento de pagamentos
-- **Bridge** - Sistema de notificações
-- **Composite** - Estrutura de arquivos e diretórios
-- **Decorator** - Criptografia e compressão
-- **Facade** - Interface simplificada
-- **Flyweight** - Otimização de memória
-- **Proxy** - Controle de acesso
+- [**Adapter**](./estruturais/adapter/) - Processamento de pagamentos
+- [**Bridge**](./estruturais/bridge/) - Sistema de notificações
+- [**Composite**](./estruturais/composite/) - Estrutura de arquivos e diretórios
+- [**Decorator**](./estruturais/decorator/) - Criptografia e compressão
+- [**Facade**](./estruturais/facade/) - Interface simplificada
+- [**Flyweight**](./estruturais/flyweight/) - Otimização de memória
+- [**Proxy**](./estruturais/proxy/) - Controle de acesso
 
 ### ⚡ Padrões Comportamentais
 Definem como objetos interagem e distribuem responsabilidades:
 
-- **Chain of Responsibility** - Sistema de prioridades
-- **Command** - Comandos executáveis
-- **Interpreter** - Interpretador de linguagem
-- **Iterator** - Iteração personalizada
-- **Mediator** - Mediação de comunicação
-- **Memento** - Salvamento de estado
-- **Observer** - Sistema de observação
-- **State** - Máquina de estados
-- **Strategy** - Estratégias intercambiáveis
-- **Template Method** - Geração de relatórios
-- **Visitor** - Exportação de documentos
+- [**Chain of Responsibility**](./coomportamentais/chain_of_responsibility/) - Sistema de prioridades
+- [**Command**](./coomportamentais/command/) - Comandos executáveis
+- [**Interpreter**](./coomportamentais/interpreter/) - Interpretador de linguagem
+- [**Iterator**](./coomportamentais/iterator/) - Iteração personalizada
+- [**Mediator**](./coomportamentais/mediator/) - Mediação de comunicação
+- [**Memento**](./coomportamentais/mememnto/) - Salvamento de estado
+- [**Observer**](./coomportamentais/observer/) - Sistema de observação
+- [**State**](./coomportamentais/state/) - Máquina de estados
+- [**Strategy**](./coomportamentais/strategy/) - Estratégias intercambiáveis
+- [**Template Method**](./coomportamentais/template_method/) - Geração de relatórios
+- [**Visitor**](./coomportamentais/visitor/) - Exportação de documentos
 
 ## Como Usar
 
