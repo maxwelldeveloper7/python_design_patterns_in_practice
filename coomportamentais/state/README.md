@@ -159,6 +159,12 @@ if __name__ == "__main__":
 
 ```
 
+## Como Executar
+
+```python
+python exemplo_state.py
+```
+
 ## Vantagens
 
 - Elimina condicionais complexas

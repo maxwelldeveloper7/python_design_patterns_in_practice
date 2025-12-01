@@ -127,6 +127,18 @@ if __name__ == "__main__":
 
 ```
 
+## Como Executar
+
+```python
+python exemplo_strategy.py
+```
+## Saída
+```bash
+Frete via Sedex: 45.0
+Frete via PAC: 20.0
+Frete via Transportadora: 45.0
+```
+
 ## Vantagens
 
 - Algoritmos intercambiáveis em tempo de execução

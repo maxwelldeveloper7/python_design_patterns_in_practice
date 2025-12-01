@@ -96,6 +96,11 @@ station.detach(logger)
 # Nova alteração (apenas display é notificado)
 station.set_temperature(30.1)
 ```
+## Como Executar
+
+```python
+python exemplo_observer.py
+```
 
 ### Saída Esperada
 ```

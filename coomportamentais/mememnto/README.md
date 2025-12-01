@@ -148,6 +148,11 @@ if __name__ == "__main__":
     print("Depois de dois undo:", editor.content)
 
 ```
+## Como Executar
+
+```python
+python exemplo_memento.py
+```
 
 ### Saída Esperada
 ```

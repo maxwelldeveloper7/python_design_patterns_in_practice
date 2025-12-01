@@ -161,6 +161,11 @@ if __name__ == "__main__":
     user3.send("Bom dia, grupo!")
 
 ```
+## Como Executar
+
+```python
+python exemplo_mediator.py
+```
 
 ### Saída Esperada
 ```
